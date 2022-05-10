@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 
 public class Tugas_SesiTujuh_Queue {
 	
-	private static String[] queue = new String[5];
+	private static String[] queue = new String[10];
 	private static int counters = 0;
 
 	private static boolean queueStorage() {
@@ -98,8 +98,8 @@ public class Tugas_SesiTujuh_Queue {
 		while(loopX == 0) {
 			System.out.println("\nContoh Program Queue dengan Java");
 			System.out.println("Menu: ");
-			System.out.println("1. Tambah Queue");
-			System.out.println("2. Keluarkan 1 data dari Queue");
+			System.out.println("1. Tambah Data Antrian");
+			System.out.println("2. Hapus Antrian Elemen Pertama");
 			System.out.println("3. Status Queue");
 			System.out.println("4. Tampilkan data dalam Queue");
 			System.out.println("5. Bersihkan Queue");
