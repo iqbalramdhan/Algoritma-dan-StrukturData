@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class JavaQueue {
+public class Tugas_SesiTujuh_Queue {
 
 private static int[] queue = new int[10];
 private static int counters = 0;
