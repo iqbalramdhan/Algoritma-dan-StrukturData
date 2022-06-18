@@ -3,6 +3,7 @@
  NIM    = 20210040139
  Kelas  = Ti21G
 */
+//Soal A
 public class insertion {
     public static void main(String args[]) {
         int a[] = { 8, 5, 9, 6, 3, 4 };
