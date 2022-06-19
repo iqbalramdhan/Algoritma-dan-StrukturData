@@ -1,3 +1,8 @@
+/*
+Nama    = Muhamad Iqbal Ramadhan
+NIM     = 20210040139
+Class   = TI21G
+ */
 public class linkedList {
     simpul pertama = null, posisi, pendahulu;
 
