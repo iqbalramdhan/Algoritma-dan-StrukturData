@@ -1,8 +1,8 @@
 public class searching_number {
     public static void main(String[] args) {
-        int arr[] = { 29, 80, 54, 87, 90, 65, 100, 88 };
+        int arr[] = { 30, 70, 20, 87, 90, 65, 19, 88 };
         int n = arr.length;
-        int posisi = (cariLinear(arr, n, 90));
+        int posisi = (cariLinear(arr, n, 65));
 
         if (posisi == -1) {
             System.out.println("data tidak ditemukan");
